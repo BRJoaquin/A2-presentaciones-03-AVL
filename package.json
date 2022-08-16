@@ -7,8 +7,11 @@
     "export": "slidev export"
   },
   "dependencies": {
+    "@chenfengyuan/vue-qrcode": "^2.0.0",
     "@slidev/cli": "^0.35.5",
     "@slidev/theme-default": "*",
-    "@slidev/theme-seriph": "*"
+    "@slidev/theme-seriph": "*",
+    "qrcode": "^1.5.1",
+    "vue-qr-generator": "^3.0.1"
   }
 }

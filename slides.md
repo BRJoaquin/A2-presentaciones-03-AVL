@@ -18,16 +18,16 @@ css: windicss
 
 ---
 
-# Definicion y caracteristicas
+# Definición y características
 
-- 🌳 **AVL es un ABB** - no en la otra direccion
+- 🌳 **AVL es un ABB** - no en la otra dirección
 - ⚖️ **Balanceado** - para cada nodo, la diferencia de altura de sus hijos es <= 1
-- ⏱️ **O(log n) pc** - para cualquier operacion (insertar, eliminar, buscar)
+- ⏱️ **O(log n) pc** - para cualquier operación (insertar, eliminar, buscar)
 
 <br>
 <br>
 
-A primera vista el uso de un ABB no esta justificado.
+A primera vista el uso de un ABB no está justificado. 🤔
 
 <br>
 
@@ -74,7 +74,7 @@ h1 {
 
 ---
 
-# Cuando rotar? (inserción)
+# Cuándo rotar? (inserción)
 
 Empezando desde W y regresando por el camino de nodos, me encuentro (o no) con el primer nodo desbalanceado, llamémosle Z. 
 También tenemos el nodo Y que es el hijo de Z por donde se encuentra W, y por último está el nodo X que es el nieto de Z en la ruta de Z->W.
@@ -249,6 +249,14 @@ layout: quote
 
 # Complejidad cognitiva
 "Yes, AVL-trees - this was a mistake of my youth" - (Adelson-Velski, 2002, Radio Liberty) 
+
+---
+
+# Pequeño repaso
+
+[https://tinyurl.com/y2k5pcuw](https://tinyurl.com/y2k5pcuw )
+<QR qrText="https://tinyurl.com/y2k5pcuw" qrWidth="300"></QR>
+
 
 ---
 layout: center
