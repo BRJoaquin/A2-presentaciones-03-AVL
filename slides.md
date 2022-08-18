@@ -98,8 +98,8 @@ nota: puede que X y W sean el mismo nodo.
 |--------|----------|---------|
 | Izquierda-Izquierda | Rotación derecha | 10 - 8 - 12 - 4 - 2  |
 | Derecha-Derecha | Rotación izquierda | 4 - 2 - 8 - 10 - 12 |
-| Izquierda-Derecha | Rotación izquierda-derecha | 10 - 8 - 12 - 4 - 2 |
-| Derecha-Izquierda | Rotación derecha-izquierda | 8 - 5 - 10 - 3 - 6 - 7 |
+| Izquierda-Derecha | Rotación izquierda-derecha | 12 - 5 - 14 - 2 - 7 - 6 |
+| Derecha-Izquierda | Rotación derecha-izquierda | 6 - 5 - 3 - 10 - 15 - 8 - 20 - 12 - 11 |
 
 
 ---
