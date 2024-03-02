@@ -9,7 +9,7 @@ highlighter: shiki
 lineNumbers: true
 drawings:
   persist: false
-css: windicss
+css: unocss
 ---
 
 # AVL
@@ -20,7 +20,7 @@ css: windicss
 
 # Definición y características
 
-- 🌳 **AVL es un ABB** - no en la otra dirección
+- 🌳 **AVL es un ABB** - no es recíproco
 - ⚖️ **Balanceado** - para cada nodo, la diferencia de altura de sus hijos es <= 1
 - ⏱️ **O(log n) pc** - para cualquier operación (insertar, eliminar, buscar)
 
@@ -133,7 +133,7 @@ void insert(T element, BSTNode *&node)
 
 Insertar un elemento en un AVL
 
-```cpp {all|3-12|14-16|18-21|26-28|30-32|34-39|41-46|all} {maxHeight:'400px'}
+```cpp {all|3-12|14-16|18-21|26-28|30-32|34-39|41-46|all}{maxHeight:'400px'}
 // aniadir un nuevo elemento en un AVL
 AVLNode *insert(AVLNode *node, T element)
 {
@@ -249,14 +249,6 @@ layout: quote
 
 # Complejidad cognitiva
 "Yes, AVL-trees - this was a mistake of my youth" - (Adelson-Velski, 2002, Radio Liberty) 
-
----
-
-# Pequeño repaso
-
-[https://tinyurl.com/y2k5pcuw](https://tinyurl.com/y2k5pcuw )
-<QR qrText="https://tinyurl.com/y2k5pcuw" qrWidth="300"></QR>
-
 
 ---
 layout: center
