@@ -1,7 +1,7 @@
 ---
 # try also 'default' to start simple
 theme: default
-background: https://source.unsplash.com/collection/159185/1920x1080
+background: https://source.unsplash.com/collection/1728245/1920x1080
 # apply any windi css classes to the current slide
 class: 'text-center'
 # https://sli.dev/custom/highlighters.html
