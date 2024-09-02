@@ -82,7 +82,7 @@ También tenemos el nodo Y que es el hijo de Z por donde se encuentra W, y por �
 Re-balancear el árbol según la rotación que le corresponda:
 - Y es el hijo izquierdo de Z y X es el hijo izquierdo de Y => rotación derecha
 - Y es el hijo izquierdo de Z y X es el hijo derecho de Y => rotación izquierda-derecha 
-- Y es el hijo derecho de Z y X es el hijo derecho de Y => rotación izquierdo
+- Y es el hijo derecho de Z y X es el hijo derecho de Y => rotación izquierda
 - Y es el hijo derecho de Z y X es el hijo izquierdo de Y => rotación derecha-izquierda
 
 <br>
