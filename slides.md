@@ -74,7 +74,7 @@ h1 {
 
 ---
 
-# Cuándo rotar? (inserción)
+# ¿Cuándo rotar? (inserción)
 
 Empezando desde W y regresando por el camino de nodos, me encuentro (o no) con el primer nodo desbalanceado, llamémosle Z. 
 También tenemos el nodo Y que es el hijo de Z por donde se encuentra W, y por último está el nodo X que es el nieto de Z en la ruta de Z->W.
